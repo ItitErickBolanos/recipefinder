@@ -1777,3 +1777,112 @@ Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac
 
 
 Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-13 18:04:07 -0500
+
+
+Started GET "/recipes_controller/index" for ::1 at 2016-07-13 18:18:35 -0500
+Processing by RecipesControllerController#index as HTML
+  Rendered recipes_controller/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 1027ms (Views: 254.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-13 18:18:36 -0500
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-07-13 18:18:36 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-07-13 18:18:36 -0500
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-13 18:18:36 -0500
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-13 18:18:36 -0500
+
+
+Started GET "/assets/recipes_controller.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-13 18:18:36 -0500
+
+
+Started GET "/recipes_controller/index" for ::1 at 2016-07-13 18:19:41 -0500
+Processing by RecipesControllerController#index as HTML
+  Rendered recipes_controller/index.html.erb within layouts/application (77.9ms)
+Completed 200 OK in 1082ms (Views: 331.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-13 18:19:42 -0500
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-13 18:19:42 -0500
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-13 18:19:42 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-07-13 18:19:42 -0500
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-07-13 18:19:42 -0500
+
+
+Started GET "/assets/recipes_controller.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-13 18:19:42 -0500
+
+
+Started GET "/recipes_controller/index?search=mocha" for ::1 at 2016-07-13 18:20:13 -0500
+Processing by RecipesControllerController#index as HTML
+  Parameters: {"search"=>"mocha"}
+  Rendered recipes_controller/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 1255ms (Views: 272.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-07-13 18:22:46 -0500
+Processing by RecipesControllerController#index as HTML
+  Rendered recipes_controller/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 996ms (Views: 273.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-07-13 18:24:30 -0500
+Processing by RecipesControllerController#index as HTML
+  Rendered recipes_controller/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 1143ms (Views: 437.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-13 18:24:31 -0500
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-07-13 18:24:31 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-07-13 18:24:32 -0500
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-13 18:24:32 -0500
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-13 18:24:32 -0500
+
+
+Started GET "/assets/recipes_controller.self-75e53e67a3266a4589bf8a8a249007d63e67417c032ca395cc6d13fd1f7ebfc9.css?body=1" for ::1 at 2016-07-13 18:24:32 -0500
+
+
+Started GET "/" for ::1 at 2016-07-13 18:24:54 -0500
+Processing by RecipesControllerController#index as HTML
+  Rendered recipes_controller/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 1749ms (Views: 410.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/recipes_controller.self-f31d72d1c290d6536c7d74cddf70982d4a29cd637f4834ed35228c565fbe7c39.css?body=1" for ::1 at 2016-07-13 18:24:56 -0500
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-13 18:24:56 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-07-13 18:24:56 -0500
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-13 18:24:56 -0500
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-07-13 18:24:56 -0500
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-13 18:24:56 -0500
